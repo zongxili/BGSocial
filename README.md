@@ -1,9 +1,5 @@
 # BG Social - LHL Final Project
 
-## Group member:
-- [Zongxi Li](https://github.com/zongxili), [Max Wong](https://github.com/MaxWong03) and [Camila Rivera](https://github.com/CamilaRivera).
-
-
 ## BG Social
 - This app helps board gamers arrange meet ups with their friends. It helps solve the issue in which Users can create, edit, and delete their events, record for each game. Our app also provides a collection of games which users can view the details as well as their own stats for each game, and adding and removing friends feature.
 
