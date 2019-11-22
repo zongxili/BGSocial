@@ -1,19 +1,48 @@
 # BG Social - LHL Final Project
 
-## BG Social
-- This app helps board gamers arrange meet ups with their friends. It helps solve the issue in which Users can create, edit, and delete their events, record for each game. Our app also provides a collection of games which users can view the details as well as their own stats for each game, and adding and removing friends feature.
+
+## About BG Social
+
+- BG Social offers a Facebook like social platform for board game enthusiasts. It allows users to invite their friends (in-app) to participate in board game events and track participants' scores for each game. Moreover, it aims to solve the issue of coordination by introducing features such as **voting** and **open event**. The app encourages friendly competition by offering game / score related statistics with which users can compare with his / her friends. 
 
 ## Final Product
-
-- Gifs goes here
+|Final Product Gif 1| Final Product Gif 2 |
+|---|---|
+|![Final Product](https://github.com/MaxWong03/BGSocial/blob/master/docs/final-product-1.gif)|![Final Product 2](docs/final-product-2.gif)
 
 ## Features
 
-- Features goes here
+### Befriend
+|Befriend (Zongxi Account)| Befriend (Max Account)|
+|---|---|
+|![Befriend](docs/add-friend.gif)|![Befriend2](docs/add-friend-2.gif)
+
+### Adding / Removing games from the game library 
+![AddGames](docs/add-game.gif)
+
+### Event Related Features
+|Inviting Friends to Event (Zongxi Account)|Accepting Invitation and Voting (Max Account)|
+|---|---|
+|![Inviting](docs/invite-friend.gif)|![Accepting](docs/accept-invite.gif)
+
+|Event Creator Finalize Date (Zongxi Account)|Confirm Going (Max Account)|
+|---|---|
+|![Choosing Event Date](docs/choose-date.gif) | ![Confirming](docs/confirm-going.gif)
+
+|Editing Event (Zongxi Account)|Open Event (Zongxi Account)| Explore Open Event (Max Account)|
+|---|---|---|
+|![Edit Event](docs/edit-event.gif)|![Open Event](docs/open-event.gif)|![Explore Event](docs/explore.gif)
+
+
+### Creating Play
+![Creating Play](docs/create-play.gif)
+
+### Game Statistics
+![Game Stat](docs/game-stat.gif)
   
 ## Technical Information / Stack
 - React Native
-- React Native Navigation
+- React Navigation
 - React Native Elements
 - Expo
 - Javascript
@@ -60,7 +89,14 @@
 
 ## Getting Started
 
-* Getting started goes here
+1) Fork this repository, then clone your fork of this repository
+2) Fork the [Custom Api Server](https://github.com/MaxWong03/BGSocial-API), then clone your fork of the api
+3) Install dependencies with `npm i`
+4) Install [Expo Cli](https://expo.io/learn)
+5) Install Expo app on your mobile device
+6) Run the [Custom Api Server](https://github.com/MaxWong03/BGSocial-API)
+7) Run `expo start`
+8) Run the Expo app on your app and scan the QR code produced by step 6)
 
 ## Project Team
 
