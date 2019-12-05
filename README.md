@@ -3,7 +3,7 @@
 
 ## About BG Social
 
-- BG Social offers a Facebook like social platform for board game enthusiasts. It allows users to invite their friends (in-app) to participate in board game events and track participants' scores for each game. Moreover, it aims to solve the issue of coordination by introducing features such as **voting** and **open event**. The app encourages friendly competition by offering game / score related statistics with which users can compare with his / her friends. 
+- BG Social offers a Facebook-like social platform for board game enthusiasts. It allows users to invite their friends (in-app) to participate in board game events and track participants' scores for each game. Moreover, it aims to solve the issue of coordination by introducing features such as **voting** and **open activity**. The app encourages friendly competition by offering game/score related statistics with which users can compare with his / her friends.
 
 ## Final Product
 |Final Product Gif 1| Final Product Gif 2 |
